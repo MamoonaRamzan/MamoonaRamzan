@@ -8,7 +8,7 @@
 <img align="center" alt="Coding" src="https://i.pinimg.com/originals/84/88/9a/84889ad9e996c2c74ffdf33e73378c66.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mamoonaramzan2@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="mamoonaramzan2@gmail.com" height="48" width="48" /></a>  
+<a href="mailto:mamoonaramzan2@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="mamoonaramzan2@gmail.com" height="48" width="48" /></a>  
 <a href="https://www.linkedin.com/in/mamoona-ramzan/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin.png" alt="https://www.linkedin.com/in/mamoona-ramzan/" height="48" width="48" /></a>
 </p>
 
