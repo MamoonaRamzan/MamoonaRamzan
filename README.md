@@ -5,7 +5,7 @@
 - 💬 Ask me about Flutter and cross platform development
 - 📫 How to reach me: mamoonaramzan2@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MamoonaRamzan&label=Profile%20views&color=0e75b6&style=flat" alt="Mamoona Ramzan" /> </p>
-<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img style="height: 100 px; width: 100 px" align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:mamoonaramzan2@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt=mamoonaramzan2@gmail.com height="48" width="48" /></a>  
