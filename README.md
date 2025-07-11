@@ -1,8 +1,8 @@
 ## Hi I'm Mamoona Ramzan 👋
 
-- 🔭 I’m currently working on Flutter & python projects
+- 🔭 I’m currently working on python projects
 - 🌱 I’m currently exploring AI & Machine Learning
-- 💬 Ask me about Flutter and cross platform development
+- 💬 Ask me about Machine Learning and Deep Learning
 - 📫 How to reach me: mamoonaramzan2@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MamoonaRamzan&label=Profile%20views&color=0e75b6&style=flat" alt="Mamoona Ramzan" /> </p>
 <img style="height: 350px; width: 350px;" align="center" alt="Coding" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
