@@ -6,21 +6,17 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=MamoonaRamzan&style=for-the-badge&color=blue&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/github/followers/MamoonaRamzan?style=for-the-badge&color=red&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/MamoonaRamzan?style=for-the-badge&color=olivegreen&label=STARS" />
+  <img src="https://img.shields.io/github/stars/MamoonaRamzan?style=for-the-badge&color=darkgreen&label=STARS" />
 </p>
 
 </div>
 
----
-
 ## 👩‍💻 About Me  
 
 🚀 Passionate about **AI, Machine Learning, and Full-Stack Development**  
-💡 Exploring ways to build **real-world impactful systems** with Python & modern frameworks  
+💡 Exploring ways to build real-world impactful systems with **Python** & modern frameworks  
 📚 Lifelong learner, currently diving deeper into **Generative AI & Large Language Models**  
-✨ Open to collaborations on **AI/ML projects, backend APIs, or open-source contributions**  
-
----
+✨ Open to collaborations on **AI/ML projects & open-source contributions**  
 
 ## 🛠 Tech Stack  
 
@@ -81,15 +77,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MamoonaRamzan&theme=radical&hide_border=true" height="160"/>
 </p>
 
----
-
 ## 📈 Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MamoonaRamzan&theme=react-dark&hide_border=true&area=true" width="75%"/>
 </p>
-
----
 
 ## 🏆 Achievements  
 
@@ -97,15 +89,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MamoonaRamzan&theme=radical&no-frame=true&row=1&column=6" width="75%"/>
 </p>
 
----
-
 ## 🐍 Github Contribution Activity 
 
 <p align="center">
   <img src="https://github.com/MamoonaRamzan/MamoonaRamzan/blob/output/snake.svg" alt="Snake animation" width="75%"/>
 </p>
-
----
 
 ## ✨ Random Dev Quote  
 
